@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="BookInfo.css"?>
+
+<Book>
+    <BookDetail>
+        <TitelDetail>
+            <Title>
+                Head First java, 2ndEdition
+            </Title> by
+            <Authors>
+                Kathy Sierra, Bert Bates
+            </Authors>
+            (<EditionInfo>PaperBack</EditionInfo>-
+            <PrintDate>
+                Feb 9, 2005
+            </PrintDate>)
+        </TitelDetail>
+<!--        -->
+        <Price>
+            New price:
+            <NewPrice>$29.68</NewPrice>
+            Old price:
+            <OldPrice>$18.96</OldPrice>
+        </Price>
+<!--        -->
+        <OrderInfo>
+            Get it by
+            <GetDate>
+                Tuesday, Feb. 27</GetDate>
+            , if you order in the next
+            <Hours>57 hours and</Hours>
+            <Minutes>43 minutes</Minutes>.
+        </OrderInfo>
+<!--        -->
+        <Edition>Other Edition:
+            <EditionType>PaperBack</EditionType>
+        </Edition>
+    </BookDetail>
+<!--    -->
+    <BookDetail>
+        <TitelDetail>
+            <Title>
+                Efective Java Programming Language Guide
+            </Title> by
+            <Authors>
+                Joshua Bloch
+            </Authors>
+            (<EditionInfo>PaperBack</EditionInfo>-
+            <PrintDate>
+                Jun 5, 2001
+            </PrintDate>)
+        </TitelDetail>
+        <!--        -->
+        <Price>
+            New price:
+            <NewPrice>$45.46</NewPrice>
+            Old price:
+            <OldPrice>$38.58</OldPrice>
+        </Price>
+        <!--        -->
+        <OrderInfo>
+            Get it by
+            <GetDate>
+                Tuesday, Feb. 27</GetDate>
+            , if you order in the next
+            <Hours>37 hours and</Hours>
+            <Minutes>47 minutes</Minutes>.
+        </OrderInfo>
+        <!--        -->
+        <Edition>Other Edition:
+            <EditionType>PaperBack</EditionType>
+        </Edition>
+    </BookDetail>
+<!--    -->
+    <BookDetail>
+        <TitelDetail>
+            <Title>
+                SCJP Sun Certified Programmer for Java
+                5 Study Guide (Exam 310-055) (Certified
+                Press Study Guides)
+            </Title> by
+            <Authors>
+                Katherine Sierra, Bert Bates
+            </Authors>
+            (<EditionInfo>PaperBack</EditionInfo>-
+            <PrintDate>
+                Dec 21, 2005
+            </PrintDate>)
+        </TitelDetail>
+        <!--        -->
+        <Price>
+            New price:
+            <NewPrice>$32.99</NewPrice>
+            Old price:
+            <OldPrice>$30.87</OldPrice>
+        </Price>
+        <!--        -->
+        <OrderInfo>
+            Get it by
+            <GetDate>
+                Tuesday, Feb. 27</GetDate>
+            , if you order in the next
+            <Hours>37 hours and</Hours>
+            <Minutes>47 minutes</Minutes>.
+        </OrderInfo>
+        <!--        -->
+        <Edition>Other Edition:
+            <EditionType>PaperBack, Digital</EditionType>
+        </Edition>
+    </BookDetail>
+<!--    -->
+    <BookDetail>
+        <TitelDetail>
+            <Title>
+                Beginning Programming with Java for Dummies
+                (For Dummies (Computer/Tech))
+            </Title> by
+            <Authors>
+               Barry Burd
+            </Authors>
+            (<EditionInfo>PaperBack</EditionInfo>-
+            <PrintDate>
+                April 15, 2005
+            </PrintDate>)
+        </TitelDetail>
+        <!--        -->
+        <Price>
+            New price:
+            <NewPrice>$17.24</NewPrice>
+            Old price:
+            <OldPrice>$13.36</OldPrice>
+        </Price>
+        <!--        -->
+        <OrderInfo>
+            Get it by
+            <GetDate>
+                Tuesday, Feb. 27</GetDate>
+            , if you order in the next
+            <Hours>37 hours and</Hours>
+            <Minutes>17 minutes</Minutes>.
+        </OrderInfo>
+        <!--        -->
+        <Edition>Other Edition:
+            <EditionType>PaperBack, Digital</EditionType>
+        </Edition>
+    </BookDetail>
+</Book>
