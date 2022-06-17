@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="sales.xsl"?>
+<Sales>
+    <SaleA>
+        <Name>David Blake</Name>
+        <Age>32</Age>
+        <Commision>$500</Commision>
+    </SaleA>
+    <SaleB>
+        <Name>Susan Jones</Name>
+        <Age>55</Age>
+        <Commision>$5000</Commision>
+    </SaleB>
+    <SaleC>
+        <Name>Martin Howell</Name>
+        <Age>25</Age>
+        <Commision>$0</Commision>
+    </SaleC>
+    <SaleD>
+        <Name>Tony Kemp</Name>
+        <Age>35</Age>
+        <Commision>$5000</Commision>
+    </SaleD>
+</Sales>
